@@ -8,6 +8,22 @@ várias redes sociais e analisa o tráfego de um usuário em uma certa conta, e 
 e gosto dos conceitos envolvidos, como o famoso Clean Architecture que também envolve o SOLID (Um conceito vindo da linguagem POO, mas que 
 também pode ser utilizada em outros paradigmas).
 
+#Tecnologias e conceitos aprendidos:
+
+- Javascript
+- Python
+- Typescript
+- Clean Code
+- Clean Architecture
+- Flutter
+- Dart
+
+#Aperfeiçoando conhecimento:
+
+- ReactJS
+- HTML
+- CSS
+
 #Eu procuro por um emprego onde:
 
 - Consiga implementar todos os conceitos e métodos que aprendi ao longo da minha carreira.
