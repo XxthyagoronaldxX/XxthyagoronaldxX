@@ -17,6 +17,7 @@ também pode ser utilizada em outros paradigmas).
 - Clean Architecture
 - Flutter
 - Dart
+- C++
 
 #Aperfeiçoando conhecimento:
 
