@@ -29,12 +29,4 @@ também pode ser utilizada em outros paradigmas). </p>
   <li> CSS </li>
 </ul>
 
-<h2> Eu procuro por um emprego onde: </h2>
-
-<ul>
-  <li> Consiga implementar todos os conceitos e métodos que aprendi ao longo da minha carreira.
-  <li> Possa aperfeiçoar o meu nível de programação.
-  <li> Possa melhorar a minha capacidade de comunicação em meio a um grupo de programadores.
-</ul>
-
-<h4> Enquanto isso #CODAR. </h4>
+<h4> <b> #CODAR. </b> </h4>
