@@ -19,6 +19,8 @@ também pode ser utilizada em outros paradigmas). </p>
   <li> Flutter </li>
   <li> Dart </li>
   <li> C++ </li>
+  <li> Java EE </li>
+  <li> Springboot </li>
 </ul>
 
 <h2> Estudando: </h2>
